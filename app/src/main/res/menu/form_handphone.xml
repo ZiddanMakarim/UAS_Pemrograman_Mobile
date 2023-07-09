@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    xmlns:tools="http://schemas.android.com/tools" >
+    <item
+        android:id="@+id/option_menu_save"
+        android:title="@string/option_menu_save"
+        android:icon="@android:drawable/ic_menu_save"
+        xmlns:app="http://schemas.android.com/apk/res-auto"="ifRoom|withText" />
+</menu>
